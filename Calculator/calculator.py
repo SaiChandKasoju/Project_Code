@@ -19,4 +19,6 @@ def multiply(x,y):
 def power(x,y):
     power=x**y
     return power
+def dummy(x,y):
+    print('dummy function')
 
