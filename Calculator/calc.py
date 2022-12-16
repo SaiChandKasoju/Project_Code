@@ -16,8 +16,8 @@ while True:
             print(remainder(x,y))
         elif operation=='*':
             print(multiply(x,y))  
-
-            
+        elif operation=='B':
+            print('Nothing to print')
         elif operation=='**':
             print(power(x,y))
     except:
