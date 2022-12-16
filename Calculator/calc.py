@@ -15,7 +15,9 @@ while True:
         elif operation=='%':
             print(remainder(x,y))
         elif operation=='*':
-            print(multiply(x,y))
+            print(multiply(x,y))  
+
+            
         elif operation=='**':
             print(power(x,y))
     except:
