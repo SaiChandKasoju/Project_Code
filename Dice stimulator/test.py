@@ -1,6 +1,0 @@
-print("Dice".center(7, " "))
-print("." * 7)
-print("|"+" " *5 + "|")
-print("| o o |")
-print("|"+" " *5 + "|")
-print("'" * 7)
